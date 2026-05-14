@@ -221,14 +221,7 @@ excel-to-powerbi-analytics/
 ## 💡 Conclusion
 This project showcases the ability to work across multiple tools and transform raw data into meaningful business insights. It demonstrates strong technical skills in **data cleaning, database design, SQL analysis, and data visualization**, making it ideal for real-world business analytics scenarios and professional portfolio building.
 
-**Status**: ✅ Complete and Ready for Production
-
----
-
-## 🤝 Contributing
-Found improvements or have suggestions? Feel free to open issues or submit pull requests!
-
----
+**Status**: ✅ Complete and Ready for Productio
 
 ---
 
