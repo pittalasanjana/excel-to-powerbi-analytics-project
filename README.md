@@ -230,9 +230,6 @@ Found improvements or have suggestions? Feel free to open issues or submit pull 
 
 ---
 
-## 📄 License
-This project is licensed under the MIT License - see LICENSE file for details.
-
 ---
 
 ## 👨‍💻 Author
